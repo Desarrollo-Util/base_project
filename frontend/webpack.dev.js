@@ -9,7 +9,7 @@ module.exports = {
     historyApiFallback: true,
     host: "0.0.0.0",
     open: true,
-    port: 3001,
+    port: 4001,
     hot: true,
   },
   entry: resolve(__dirname, "./src/index.js"),
